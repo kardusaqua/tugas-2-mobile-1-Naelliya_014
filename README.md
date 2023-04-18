@@ -1,4 +1,5 @@
 ![alt text](https://github.com/kardusaqua/tugas-2-mobile-1-Naelliya_014/blob/main/hasil/profil-screen-nael.PNG?raw=true)
+![alt text](https://github.com/kardusaqua/tugas-2-mobile-1-Naelliya_014/blob/main/hasil/splashscreen-nael.PNG?raw=true)
 # tugas_profil
 
 A new Flutter project.
